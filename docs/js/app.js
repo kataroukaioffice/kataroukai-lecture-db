@@ -74,7 +74,7 @@ function populateSelect(select, values, label) {
 }
 
 function buildFilterOptions(lectures) {
-  const categories = [...new Set(lectures.map((l) => l.category).filter(Boolean))].sort((a, b) =>
+  const categories = [...new Set(lectures.map((l) => l.activityType).filter(Boolean))].sort((a, b) =>
     a.localeCompare(b, "ja")
   );
   const speakers = [...new Set(lectures.map((l) => l.name).filter(Boolean))].sort((a, b) =>
@@ -84,7 +84,7 @@ function buildFilterOptions(lectures) {
     b.localeCompare(a)
   );
 
-  populateSelect(elements.filterCategory, categories, "区分");
+  populateSelect(elements.filterCategory, categories, "活動種別");
   populateSelect(elements.filterSpeaker, speakers, "講演者");
   populateSelect(elements.filterYear, years, "開催年");
 }
@@ -134,6 +134,7 @@ function matchesQuery(lecture, query) {
     lecture.eventName,
     lecture.location,
     lecture.notes,
+    lecture.activityType,
     lecture.category,
     genreLabels,
   ]
@@ -146,7 +147,7 @@ function getFilteredLectures() {
   const { query, genre, category, speaker, year } = state.filters;
   return state.lectures.filter((lecture) => {
     if (genre && !(lecture.genres || []).includes(genre)) return false;
-    if (category && lecture.category !== category) return false;
+    if (category && lecture.activityType !== category) return false;
     if (speaker && lecture.name !== speaker) return false;
     if (year && extractYear(lecture) !== year) return false;
     return matchesQuery(lecture, query);
@@ -170,7 +171,7 @@ function renderLectureEntry(lecture) {
   return `
     <article class="lecture-entry" data-id="${escapeHtml(lecture.id)}">
       <div class="lecture-entry-header">
-        <span class="badge">${escapeHtml(lecture.category || "未分類")}</span>
+        <span class="badge">${escapeHtml(lecture.activityType || lecture.category || "未分類")}</span>
         ${genreBadges}
         <span class="badge-date">${escapeHtml(dateLabel)}</span>
       </div>

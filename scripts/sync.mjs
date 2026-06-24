@@ -9,6 +9,7 @@ import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { GENRES, assignGenres } from "./genres.mjs";
+import { ACTIVITY_TYPES, normalizeActivityType } from "./activity-types.mjs";
 
 const SHEET_ID = "1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI";
 const GID = "622302178";
@@ -197,13 +198,16 @@ function rowsToRecords(matrix) {
 
 function toLecture(row, canonicalMap) {
   const date = normalizeDate(row[COLUMNS.date]);
+  const categoryRaw = row[COLUMNS.category] || "";
+  const eventName = row[COLUMNS.eventName] || "";
   return {
     id: "",
     timestamp: row[COLUMNS.timestamp] || "",
     name: normalizeSpeakerName(row[COLUMNS.name], canonicalMap),
-    category: row[COLUMNS.category] || "",
+    category: categoryRaw,
+    activityType: normalizeActivityType(categoryRaw, eventName),
     title: row[COLUMNS.title] || "",
-    eventName: row[COLUMNS.eventName] || "",
+    eventName,
     date: date.raw,
     dateIso: date.iso,
     location: row[COLUMNS.location] || "",
@@ -254,6 +258,7 @@ async function main() {
     nameMergeGroups: mergedCount,
     genres: GENRES.map((genre) => ({ id: genre.id, label: genre.label })),
     genreCounts,
+    activityTypes: ACTIVITY_TYPES.map((type) => ({ id: type.id, label: type.label })),
     lectures,
   };
 
