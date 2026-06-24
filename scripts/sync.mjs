@@ -27,7 +27,7 @@ const COLUMNS = {
 };
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const OUTPUT_PATH = join(__dirname, "..", "public", "data", "lectures.json");
+const OUTPUT_PATH = join(__dirname, "..", "docs", "data", "lectures.json");
 
 function parseCsv(text) {
   const rows = [];

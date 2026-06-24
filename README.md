@@ -7,7 +7,7 @@
 
 ```
 scripts/sync.mjs          # スプレッドシート → JSON 同期スクリプト
-public/
+docs/
   index.html              # 公開ページ
   css/style.css
   js/app.js
@@ -31,7 +31,7 @@ npm run dev
 1. このリポジトリを GitHub に push
 2. **Settings → Pages → Build and deployment**
    - Source: **Deploy from a branch**
-   - Branch: `main` / folder: `/public`
+   - Branch: `main` / folder: `/docs`
 3. 数分後、`https://<username>.github.io/<repo>/` で公開されます
 
 ## 自動更新

@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "sync": "node scripts/sync.mjs",
-    "dev": "npx serve public -l 3000",
+    "dev": "npx serve docs -l 3000",
     "build": "node scripts/sync.mjs"
   }
 }
