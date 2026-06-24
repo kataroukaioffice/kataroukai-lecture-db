@@ -1,0 +1,1951 @@
+{
+  "updatedAt": "2026-06-24T01:20:10.847Z",
+  "source": {
+    "spreadsheetId": "1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI",
+    "gid": "622302178",
+    "url": "https://docs.google.com/spreadsheets/d/1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI/edit?gid=622302178"
+  },
+  "totalInSheet": 396,
+  "publishedCount": 121,
+  "speakerCount": 19,
+  "nameMergeGroups": 14,
+  "genres": [
+    {
+      "id": "medical-safety",
+      "label": "医療安全"
+    },
+    {
+      "id": "qa-qc",
+      "label": "QA/QC"
+    },
+    {
+      "id": "treatment-planning",
+      "label": "治療計画"
+    },
+    {
+      "id": "equipment-physics",
+      "label": "装置・物理"
+    },
+    {
+      "id": "igrt",
+      "label": "IGRT・定位"
+    },
+    {
+      "id": "workflow",
+      "label": "業務・組織"
+    },
+    {
+      "id": "ai-digital",
+      "label": "AI・デジタル"
+    },
+    {
+      "id": "disaster-bcp",
+      "label": "災害・BCP"
+    },
+    {
+      "id": "research-education",
+      "label": "研究・教育"
+    },
+    {
+      "id": "patient-care",
+      "label": "患者ケア"
+    }
+  ],
+  "genreCounts": {
+    "medical-safety": 14,
+    "qa-qc": 13,
+    "treatment-planning": 38,
+    "equipment-physics": 26,
+    "igrt": 21,
+    "workflow": 23,
+    "ai-digital": 13,
+    "disaster-bcp": 2,
+    "research-education": 39,
+    "patient-care": 6
+  },
+  "lectures": [
+    {
+      "id": "349a36cda4a6",
+      "timestamp": "2026/06/17 17:49:19",
+      "name": "井上裕之",
+      "category": "講演",
+      "title": "緊急時に備える放射線治療QA ― 経験から学ぶリスクマネジメント",
+      "eventName": "日本放射線技術学会近畿支部放射線治療セミナー",
+      "date": "2026/06/21",
+      "dateIso": "2026-06-21",
+      "location": "大阪",
+      "notes": "",
+      "genres": [
+        "medical-safety",
+        "qa-qc",
+        "disaster-bcp",
+        "research-education"
+      ]
+    },
+    {
+      "id": "4ab683689e35",
+      "timestamp": "2026/06/10 12:02:22",
+      "name": "松田 大志",
+      "category": "講演",
+      "title": "褒めて伸ばそうグッドキャッチ～あなたの施設にもきっとある～",
+      "eventName": "日本放射線治療専門放射線技師認定機構",
+      "date": "2026/05/16",
+      "dateIso": "2026-05-16",
+      "location": "コンファレンスプラザ大阪御堂筋",
+      "notes": "皆様の施設には，医療安全文化を構築するためのシステムはありますか？当院では\nGood Job 報告という形式で，未然にインシデントを防いだ事例を報告するシステムがあ\nる．当院のGood Job報告の特徴は“相手の行動や気づきを肯定的に評価し，奨励するこ\nと”であり，未然にインシデントを防いだ事例だけでなく，既存するエラー防止のシステム\nや取り組みに対する気づきなども対象となる． \nエラーは様々な要因によって発生するが，業務に対して無関心（モチベーションが低\nい）であることも要因のひとつとして挙げられる．また，インシデント事例やグッドキャ\nッチ事例の報告がなかなかあがらず，どのように安全文化を構築していくか苦慮されてい\nる施設も少なくないのではないかと推測する．人間は褒められるとその行動を繰り返すと\nいうポジティブフィードバックの効果が発生することがあり，その効果は褒められた相手\nだけでなく，その行動に気づいた・報告した人にも効果があり，モチベーションの向上と\n自発的な成⾧が期待できる． \n本講演では，当院で実施しているGood Job報告の事例紹介や取り組みだけでなく今後\nの課題についてもお示しする．当院の事例紹介などから，皆様の施設にもきっとある多く\nの“Good Job”を見つける機会になれば幸いである．",
+      "genres": [
+        "medical-safety",
+        "workflow"
+      ]
+    },
+    {
+      "id": "a8c73ca574e4",
+      "timestamp": "2026/03/10 16:06:20",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "放射線治療の”現場力”を支えるスキル 〜チームが機能する要素とは？〜",
+      "eventName": "第7回RTT医療安全セミナー",
+      "date": "2026/05/16",
+      "dateIso": "2026-05-16",
+      "location": "大阪",
+      "notes": "",
+      "genres": [
+        "medical-safety",
+        "workflow"
+      ]
+    },
+    {
+      "id": "8adc81ca7e25",
+      "timestamp": "2026/06/10 12:04:28",
+      "name": "松田 大志",
+      "category": "講演",
+      "title": "医療安全 プランチェック～私達はどのようなスキルを身につけるべきか？～",
+      "eventName": "第165回放射線治療かたろう会",
+      "date": "2026/03/28",
+      "dateIso": "2026-03-28",
+      "location": "コンファレンスプラザ大阪御堂筋",
+      "notes": "放射線治療におけるインシデント事例の半数以上は治療計画に関連しており，患者に照射する前にプランチェックを行うことはエラーを防止する上で非常に重要である．最近ではAAPM TG-275が発刊され，リスク分析を用いた効果的なプランチェック方法について提言されている．しかし，プランチェックで全てのエラーを検出できるわけではなく，エラーが発生する要因を追求し続け，必要に応じて対策を講じることが今後も私達には求められる．\n本講演では，プランチェックの必要性や課題，放射線治療プロセスで発生するエラーの特徴をいくつか解説した上で，今後私達がどのようなスキルを身につけていくべきか提案する．\n安全な放射線治療を提供するためにどのようにプランチェックに携わるべきか皆様と一緒に考える機会になれば幸いである．",
+      "genres": [
+        "medical-safety",
+        "qa-qc",
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "4de7cb4eac9b",
+      "timestamp": "2026/04/10 16:03:26",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "患者 QA の運用～がん専門医療機関の場合～",
+      "eventName": "令和7年度 東北医学物理セミナー",
+      "date": "2026/03/28",
+      "dateIso": "2026-03-28",
+      "location": "web",
+      "notes": "OICIの患者QAについて、EPID PSQA",
+      "genres": [
+        "qa-qc"
+      ]
+    },
+    {
+      "id": "db1977f1d5e0",
+      "timestamp": "2026/01/19 17:22:58",
+      "name": "武井良樹",
+      "category": "かたろう会関連事業",
+      "title": "リニアックの精度管理― 年度内に覚える。リニアック標準計測法 24を中心に ―",
+      "eventName": "医療機関の放射線業務従事者のための放射性同位元素等規制法講習会",
+      "date": "2026/03/07",
+      "dateIso": "2026-03-07",
+      "location": "Web",
+      "notes": "リニアック校正について",
+      "genres": [
+        "qa-qc",
+        "equipment-physics",
+        "workflow"
+      ]
+    },
+    {
+      "id": "7cd4a45c78cc",
+      "timestamp": "2026/01/10 11:31:14",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "タスク・シフト／シェア時代の安全と質マネジメント〜継承すべきもの、変革すべきもの〜",
+      "eventName": "医療機関の放射線業務従事者のための放射性同位元素等規制法講習会",
+      "date": "2026/03/07",
+      "dateIso": "2026-03-07",
+      "location": "",
+      "notes": "",
+      "genres": [
+        "medical-safety",
+        "workflow"
+      ]
+    },
+    {
+      "id": "78fb4c522f92",
+      "timestamp": "2026/01/28 16:39:37",
+      "name": "井上裕之",
+      "category": "講演",
+      "title": "災害時、その治療は本当に安全か？実災害の経験から学ぶ放射線治療の品質管理",
+      "eventName": "遠州・三河放射線治療講演会",
+      "date": "2026/02/13",
+      "dateIso": "2026-02-13",
+      "location": "Web",
+      "notes": "災害対策事業WGのアンケート結果をもとに災害時のQAについて話します",
+      "genres": [
+        "qa-qc",
+        "disaster-bcp",
+        "research-education"
+      ]
+    },
+    {
+      "id": "113b94fbd448",
+      "timestamp": "2026/01/21 9:48:07",
+      "name": "水野裕一",
+      "category": "講演",
+      "title": "生成AIは“現場の味方”！～ 放射線治療でのリアルな使い方～",
+      "eventName": "大阪大学放射線技術科学学友会",
+      "date": "2026/01/31",
+      "dateIso": "2026-01-31",
+      "location": "大阪大学中之島センター",
+      "notes": "放射線治療でのAI利用と日常業務での生成AIの活用",
+      "genres": [
+        "workflow",
+        "ai-digital"
+      ]
+    },
+    {
+      "id": "54ecb6d58b4f",
+      "timestamp": "2026/01/21 9:45:56",
+      "name": "水野裕一",
+      "category": "講演",
+      "title": "マーキングから考える日常業務の基礎",
+      "eventName": "ならおう会",
+      "date": "2026/01/24",
+      "dateIso": "2026-01-24",
+      "location": "天理よろず相談所病院",
+      "notes": "皮膚マーキングを通して、motion managementを含めた基本業務を考察する内容",
+      "genres": [
+        "igrt",
+        "workflow"
+      ]
+    },
+    {
+      "id": "a4d296085e6a",
+      "timestamp": "2026/01/22 12:00:32",
+      "name": "井上裕之",
+      "category": "かたろう会関連事業",
+      "title": "「動かないで」は無理な話？　～論文で見る治療中体動の現実と対策～",
+      "eventName": "第164回放射線治療かたろう会",
+      "date": "2025/12/27",
+      "dateIso": "2025-12-27",
+      "location": "コンファレンスプラザ大阪御堂筋",
+      "notes": "",
+      "genres": [
+        "igrt",
+        "research-education"
+      ]
+    },
+    {
+      "id": "6fccb78cdaf4",
+      "timestamp": "2026/01/19 17:20:28",
+      "name": "武井良樹",
+      "category": "かたろう会関連事業",
+      "title": "リニアック校正って実際どうなのか～気になる疑問を調べてみました〜",
+      "eventName": "第164回放射線治療かたろう会基礎講座",
+      "date": "2025/12/27",
+      "dateIso": "2025-12-27",
+      "location": "コンファレンスプラザ大阪御堂筋&Zoom webinar",
+      "notes": "リニアック校正について",
+      "genres": [
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "af3ec4024f31",
+      "timestamp": "2025/12/10 13:12:18",
+      "name": "水野裕一",
+      "category": "講演",
+      "title": "RadixactとCyberKnife：装置概要と最新機能",
+      "eventName": "第172回JSRT東京支部セミナー",
+      "date": "2025/12/13",
+      "dateIso": "2025-12-13",
+      "location": "駒澤大学",
+      "notes": "RX, CKの特長と機能説明をハードウェアベースで説明",
+      "genres": [
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "af99674fe557",
+      "timestamp": "2025/12/10 12:40:40",
+      "name": "藤本隆広",
+      "category": "講演",
+      "title": "タスク・シフト/シェアは人を育てる力になる-放射線治療における業務最適化と次世代育成-",
+      "eventName": "第28回岩手実践RTセミナー",
+      "date": "2025/12/13",
+      "dateIso": "2025-12-13",
+      "location": "岩手県立中央病院",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "workflow"
+      ]
+    },
+    {
+      "id": "cc721ddd20f5",
+      "timestamp": "2025/12/18 17:54:39",
+      "name": "松本賢治",
+      "category": "学会発表",
+      "title": "Evaluation of shielding effectiveness for scattered radiation of 3D tungsten functional paper structures formed using origami techniques",
+      "eventName": "IAEA international conference on radiation protection on medicine",
+      "date": "2025/12/10",
+      "dateIso": "2025-12-10",
+      "location": "ウィーン",
+      "notes": "",
+      "genres": []
+    },
+    {
+      "id": "e0a6268c2ae8",
+      "timestamp": "2025/12/18 17:53:52",
+      "name": "松本賢治",
+      "category": "学会発表",
+      "title": "Optimization of imaging Dose in IGRT using newly iCBCT for thoracic region",
+      "eventName": "IAEA international conference on radiation protection on medicine",
+      "date": "2025/12/10",
+      "dateIso": "2025-12-10",
+      "location": "ウィーン",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "igrt"
+      ]
+    },
+    {
+      "id": "700f745f1c1f",
+      "timestamp": "2026/01/20 11:25:47",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "治療計画",
+      "eventName": "日本医学物理士会",
+      "date": "2025/12/07",
+      "dateIso": "2025-12-07",
+      "location": "web",
+      "notes": "「強度変調放射線治療における物理技術ガイドライン2023を再確認しよう」",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "016f5b98d2d0",
+      "timestamp": "2026/01/20 11:31:36",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "放射線治療計画装置",
+      "eventName": "2025年度 RTT 統一講習会",
+      "date": "2025/12/06",
+      "dateIso": "2025-12-06",
+      "location": "web",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "0a23d9b5921a",
+      "timestamp": "2025/12/10 12:37:22",
+      "name": "藤本隆広",
+      "category": "講演",
+      "title": "遮へい計算実務マニュアル第５章（直線加速装置） ― 実践に向けた計算の説明と解釈 ―",
+      "eventName": "医療機関の放射線業務従事者のための放射性同位元素等規制法講習会",
+      "date": "2025/12/06",
+      "dateIso": "2025-12-06",
+      "location": "WEB",
+      "notes": "",
+      "genres": [
+        "equipment-physics",
+        "workflow"
+      ]
+    },
+    {
+      "id": "a7bdb19b16e2",
+      "timestamp": "2025/10/10 12:58:27",
+      "name": "田村 命",
+      "category": "学会発表",
+      "title": "Hybrid Beam DataによるCyberKnifeコミッショニング手法",
+      "eventName": "日本放射線腫瘍学会 第38回学術大会",
+      "date": "2025/11/28",
+      "dateIso": "2025-11-28",
+      "location": "東京国際フォーラム",
+      "notes": "",
+      "genres": [
+        "equipment-physics",
+        "research-education"
+      ]
+    },
+    {
+      "id": "ef24836876d1",
+      "timestamp": "2026/02/12 10:29:11",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "現場から創造する未来 : 放射線技術学が支える技術革新と人材育成",
+      "eventName": "第69回近畿支部学術大会",
+      "date": "2025/11/23",
+      "dateIso": "2025-11-23",
+      "location": "西宮市",
+      "notes": "",
+      "genres": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "b615dbcf8283",
+      "timestamp": "2025/09/02 15:11:31",
+      "name": "井上裕之",
+      "category": "講演",
+      "title": "PSQA 3.0：IMRT線量検証のパラダイムシフト",
+      "eventName": "RTT 2025年度 九州2地区講習会",
+      "date": "2025/11/08",
+      "dateIso": "2025-11-08",
+      "location": "熊本",
+      "notes": "",
+      "genres": [
+        "qa-qc",
+        "treatment-planning",
+        "workflow"
+      ]
+    },
+    {
+      "id": "0e092e77f2d7",
+      "timestamp": "2025/08/10 11:38:21",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "継承と変革 〜その先に見据える本質〜",
+      "eventName": "第20回九州放射線医療技術学術大会",
+      "date": "2025/11/02",
+      "dateIso": "2025-11-02",
+      "location": "鹿児島",
+      "notes": "「若手へのメッセージみたいな感じ」と依頼された",
+      "genres": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "0261570f8615",
+      "timestamp": "2025/07/10 11:38:29",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "継承と変革 ～その先に見据える本質～",
+      "eventName": "第 20 回九州放射線医療技術学術大会",
+      "date": "2025/11/02",
+      "dateIso": "2025-11-02",
+      "location": "",
+      "notes": "",
+      "genres": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "0457d456eb6a",
+      "timestamp": "2025/10/10 13:02:19",
+      "name": "田村 命",
+      "category": "講演",
+      "title": "ちょっと待った！その疑問、研究になるかも？ ～ 臨床 × 研究 = 未来を変える可能性 ～",
+      "eventName": "日本放射線技術学会 近畿支部事業 「Rising Star計画」",
+      "date": "2025/10/29",
+      "dateIso": "2025-10-29",
+      "location": "行岡医療専門学校",
+      "notes": "「研究は楽しい」を伝える、学生に向けた講演。",
+      "genres": [
+        "research-education"
+      ]
+    },
+    {
+      "id": "b664d7182749",
+      "timestamp": "2025/11/10 15:41:04",
+      "name": "松田 タイシ",
+      "category": "学会発表",
+      "title": "放射線治療における患者説明動画作成による業務効率化の検討",
+      "eventName": "第53回日本放射線技術学会秋季学術大会",
+      "date": "2025/10/18",
+      "dateIso": "2025-10-18",
+      "location": "札幌コンベンションセンター",
+      "notes": "放射線治療に関する患者への説明は，放射線治療に対する意思決定や不安軽減のために重要である．当院では多職種で患者説明を実施しているが，症例により長時間になることもあり，患者説明の業務負担が課題になっている．近年では，説明動画を利用している施設が増えているが，動画の利用が患者説明を行うスタッフへ与える影響は評価されていない．そこで本研究では，動画による患者説明が業務の効率化に繋がるかについて検討した．",
+      "genres": [
+        "workflow",
+        "ai-digital",
+        "research-education",
+        "patient-care"
+      ]
+    },
+    {
+      "id": "60b6d9d56eab",
+      "timestamp": "2025/10/10 11:44:48",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "2025年度 医療安全セミナー⑥ 放射線治療プランチェック入門 Webセミナー",
+      "eventName": "日本医学物理士会",
+      "date": "2025/10/16",
+      "dateIso": "2025-10-16",
+      "location": "web",
+      "notes": "プランチェックについて、JCMPが作成したプランチェック動画の解説",
+      "genres": [
+        "medical-safety",
+        "qa-qc",
+        "ai-digital"
+      ]
+    },
+    {
+      "id": "4753229a8eae",
+      "timestamp": "2025/08/10 11:26:58",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "インシデントを紐解くためのヒューマンファクター講座",
+      "eventName": "日本放射線治療専門放射線技師認定機構主催 第 6 回 RTT 医療安全セミナー",
+      "date": "2025/10/11",
+      "dateIso": "2025-10-11",
+      "location": "東京",
+      "notes": "",
+      "genres": [
+        "medical-safety"
+      ]
+    },
+    {
+      "id": "82c671afe77d",
+      "timestamp": "2025/07/10 11:37:09",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "インシデントを紐解くためのヒューマンファクター講座",
+      "eventName": "第6回RTT医療安全セミナー",
+      "date": "2025/10/11",
+      "dateIso": "2025-10-11",
+      "location": "東京",
+      "notes": "",
+      "genres": [
+        "medical-safety"
+      ]
+    },
+    {
+      "id": "5c5fb1a0e913",
+      "timestamp": "2025/10/10 11:41:51",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "治療計画の洗練 × 情報共有の実践〜ハイボリュームセンターの現場から〜",
+      "eventName": "第163回放射線治療かたろう会",
+      "date": "2025/09/27",
+      "dateIso": "2025-09-27",
+      "location": "大阪市",
+      "notes": "治療計画の洗練と情報共有についてOICIの現場の取り組みを紹介",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "8599afe333d9",
+      "timestamp": "2025/10/10 11:24:12",
+      "name": "上本 賢司",
+      "category": "かたろう会関連事業",
+      "title": "IMRTの基礎と実践～通常照射となにが違う？～",
+      "eventName": "第163回放射線治療かたろう会",
+      "date": "2025/09/27",
+      "dateIso": "2025-09-27",
+      "location": "コンファレンスプラザ大阪御堂筋",
+      "notes": "",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "17e4109e9701",
+      "timestamp": "2025/08/10 11:24:20",
+      "name": "山本鋭二郎",
+      "category": "かたろう会関連事業",
+      "title": "小さなチームの包括的技術精度管理 〜ゴールは“線量分布”にあらず〜",
+      "eventName": "第163回放射線治療かたろう会",
+      "date": "2025/09/27",
+      "dateIso": "2025-09-27",
+      "location": "大阪",
+      "notes": "",
+      "genres": [
+        "qa-qc",
+        "workflow"
+      ]
+    },
+    {
+      "id": "eb1ba6c17ced",
+      "timestamp": "2025/10/10 11:40:03",
+      "name": "五十野 優",
+      "category": "学会発表",
+      "title": "高精度放射線治療計画の新規担当者に対する教育体制の構築",
+      "eventName": "第130回 日本医学物理学会学術大会",
+      "date": "2025/09/19",
+      "dateIso": "2025-09-19",
+      "location": "千葉県柏市",
+      "notes": "OICIで実施している新規治療計画担当者の教育について",
+      "genres": [
+        "treatment-planning",
+        "research-education"
+      ]
+    },
+    {
+      "id": "16e1d45c6e95",
+      "timestamp": "2025/09/22 16:19:25",
+      "name": "藤本隆広",
+      "category": "講演",
+      "title": "直線加速装置使用に伴う管理帳簿の作成について",
+      "eventName": "第2回　医療機関の放射線業務従事者のための放射性同位元素等規制法講習会",
+      "date": "2025/09/13",
+      "dateIso": "2025-09-13",
+      "location": "WEB",
+      "notes": "直線加速装置の設置時やその後に必要な帳簿類の詳細について",
+      "genres": [
+        "equipment-physics",
+        "workflow"
+      ]
+    },
+    {
+      "id": "3c5dec7c2729",
+      "timestamp": "2025/10/10 11:25:23",
+      "name": "上本 賢司",
+      "category": "かたろう会関連事業",
+      "title": "放射線治療計画概論",
+      "eventName": "放射線治療かたろう会わかば会",
+      "date": "2025/09/07",
+      "dateIso": "2025-09-07",
+      "location": "多根総合病院(ハイブリッド開催)",
+      "notes": "",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "5db99d901273",
+      "timestamp": "2025/09/10 13:35:46",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "執筆を進めていくにあたって\t\t心構え　と　注意点",
+      "eventName": "日本放射線技術学会近畿支部　論文塾",
+      "date": "2025/09/06",
+      "dateIso": "2025-09-06",
+      "location": "森ノ宮医療大学",
+      "notes": "",
+      "genres": [
+        "research-education"
+      ]
+    },
+    {
+      "id": "926ca642e1f1",
+      "timestamp": "2025/09/02 15:04:47",
+      "name": "井上裕之",
+      "category": "講演",
+      "title": "着衣下乳房照射導入への道のり 〜準備段階での検討と対策〜",
+      "eventName": "Brainlab Round Table Talking 2025 in Kansai",
+      "date": "2025/08/30",
+      "dateIso": "2025-08-30",
+      "location": "大阪",
+      "notes": "ExactracDynamicを使ったマーカーレス着衣乳房照射にむけて、当院で準備・検討したことの報告",
+      "genres": [
+        "ai-digital",
+        "patient-care"
+      ]
+    },
+    {
+      "id": "0a27d6fc0594",
+      "timestamp": "2025/09/10 13:40:12",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "放射線治療機器 (放射線治療物理学): 放射線の“形”をつくる技術~Multi-Leaf Collimator (MLC)~",
+      "eventName": "JSMP医学物理サマーセミナー2025",
+      "date": "2025/08/29",
+      "dateIso": "2025-08-29",
+      "location": "福島県郡山市",
+      "notes": "",
+      "genres": [
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "5e1d32d5faf6",
+      "timestamp": "2025/09/10 13:38:57",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "放射線治療機器 (放射線治療物理学): リニアックにおける高エネルギーX 線発生のメカニズム",
+      "eventName": "JSMP医学物理サマーセミナー2025",
+      "date": "2025/08/29",
+      "dateIso": "2025-08-29",
+      "location": "福島県郡山市",
+      "notes": "",
+      "genres": [
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "30aac5617655",
+      "timestamp": "2025/09/10 13:37:14",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "放射線治療を支える頭脳\t~治療計画装置の構造と役割~",
+      "eventName": "医学物理士会2025年度ベーシックセミナー③",
+      "date": "2025/08/19",
+      "dateIso": "2025-08-19",
+      "location": "オンデマンド",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "905d47d1369c",
+      "timestamp": "2025/09/10 11:46:32",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "肝臓に対する治療計画 RayStation編",
+      "eventName": "第8回放射線治療あすなろ会 放射線治療計画セミナー",
+      "date": "2025/08/09",
+      "dateIso": "2025-08-09",
+      "location": "web",
+      "notes": "肝臓に対するIGRT、線量制約プロトコル等",
+      "genres": [
+        "treatment-planning",
+        "igrt"
+      ]
+    },
+    {
+      "id": "5eef972895d7",
+      "timestamp": "2025/12/03 20:31:39",
+      "name": "山下祐美恵",
+      "category": "講演",
+      "title": "放射線治療技術",
+      "eventName": "RTT主催　認定教育セミナー",
+      "date": "2025/07/07",
+      "dateIso": "2025-07-07",
+      "location": "e-learning",
+      "notes": "専門技師受験者に向けたe-learning",
+      "genres": [
+        "research-education"
+      ]
+    },
+    {
+      "id": "36cdcd3b98fe",
+      "timestamp": "2025/07/07 16:52:44",
+      "name": "井上裕之",
+      "category": "かたろう会関連事業",
+      "title": "『生成AIと放射線治療 -技師の仕事はどうなる？ 業務効率化とリスクの境界線-』",
+      "eventName": "第162回放射線治療かたろう会",
+      "date": "2025/06/14",
+      "dateIso": "2025-06-14",
+      "location": "コンファレンスプラザ御堂筋",
+      "notes": "",
+      "genres": [
+        "workflow",
+        "ai-digital"
+      ]
+    },
+    {
+      "id": "a8856bec8bad",
+      "timestamp": "2025/07/10 14:11:25",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "AI技術を活用したVMATプランニング",
+      "eventName": "第81回総会学術大会放射線治療部会　シンポジウム",
+      "date": "2025/04/13",
+      "dateIso": "2025-04-13",
+      "location": "パシフィコ横浜",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "ai-digital"
+      ]
+    },
+    {
+      "id": "ac3a7dd626d3",
+      "timestamp": "2025/04/08 12:22:21",
+      "name": "若山 司",
+      "category": "かたろう会関連事業",
+      "title": "世話⼈アンケート報告 ボーラス使⽤の実態〜胸壁・頭⽪への適応を中⼼に〜",
+      "eventName": "第161回放射線治療かたろう会",
+      "date": "2025/03/29",
+      "dateIso": "2025-03-29",
+      "location": "コンファレンスプラザ大阪御堂筋",
+      "notes": "",
+      "genres": [
+        "research-education",
+        "patient-care"
+      ]
+    },
+    {
+      "id": "08304b7b83aa",
+      "timestamp": "2025/02/10 13:02:48",
+      "name": "田村 命",
+      "category": "かたろう会関連事業",
+      "title": "線量計算アルゴリズムの解説　〜 原理から臨床応用まで 〜",
+      "eventName": "第161回　かたろう会",
+      "date": "2025/03/29",
+      "dateIso": "2025-03-29",
+      "location": "コンファレンスプラザ大阪御堂筋",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "ffd1e656e1cc",
+      "timestamp": "2025/04/08 12:28:05",
+      "name": "若山 司",
+      "category": "講演",
+      "title": "3D-Starshotを実際にやってみて",
+      "eventName": "臨床ゲル線量計コンソーシアム2025",
+      "date": "2025/03/23",
+      "dateIso": "2025-03-23",
+      "location": "Web",
+      "notes": "",
+      "genres": [
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "723b3b6d41df",
+      "timestamp": "2025/04/10 11:28:22",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "患者QA合理化への道：EPIDの利活用",
+      "eventName": "令和6年度臨床医学物理研究会",
+      "date": "2025/03/22",
+      "dateIso": "2025-03-22",
+      "location": "web",
+      "notes": "EPIDの患者QAへの利活用",
+      "genres": [
+        "qa-qc",
+        "research-education"
+      ]
+    },
+    {
+      "id": "73baf696338e",
+      "timestamp": "2025/03/21 12:34:57",
+      "name": "水野裕一",
+      "category": "講演",
+      "title": "定位放射線治療専用機の安全で効率的な立ち上げ～他のリニアックとの違いとは？",
+      "eventName": "令和６年度実践的放射線治療人材育成セミナー(HIPRAC)",
+      "date": "2025/03/16",
+      "dateIso": "2025-03-16",
+      "location": "web",
+      "notes": "サイバーナイフの立ち上げに関して。装置特長、リニアックとの違い、平均データ立ち上げを説明。",
+      "genres": [
+        "equipment-physics",
+        "igrt",
+        "workflow"
+      ]
+    },
+    {
+      "id": "3354c6d5f073",
+      "timestamp": "2025/02/10 13:06:25",
+      "name": "田村 命",
+      "category": "研究会",
+      "title": "基準ビームデータを用いた新規立上げ手法「CyberComm」の使用経験",
+      "eventName": "第18回　サイバーナイフ研究会",
+      "date": "2025/03/15",
+      "dateIso": "2025-03-15",
+      "location": "TKP東京駅カンファレンスセンター (Web参加)",
+      "notes": "",
+      "genres": [
+        "equipment-physics",
+        "research-education"
+      ]
+    },
+    {
+      "id": "864346e38fb4",
+      "timestamp": "2025/07/10 14:10:15",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "肝腫瘍に対する定位放射線治療",
+      "eventName": "第57回福島県放射線治療懇話会Advance",
+      "date": "2025/03/01",
+      "dateIso": "2025-03-01",
+      "location": "郡山ビッグアイ",
+      "notes": "",
+      "genres": [
+        "igrt"
+      ]
+    },
+    {
+      "id": "d863831b68e7",
+      "timestamp": "2025/02/26 10:40:35",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "支え合いがつなぐ線量校正の安心~放射線治療かたろう会Dose Management WGの軌跡~",
+      "eventName": "第34回徳島県放射線治療研究会",
+      "date": "2025/02/22",
+      "dateIso": "2025-02-22",
+      "location": "web",
+      "notes": "DMWGの活動報告",
+      "genres": [
+        "equipment-physics",
+        "research-education"
+      ]
+    },
+    {
+      "id": "c2f6fa7fa753",
+      "timestamp": "2025/02/17 8:13:25",
+      "name": "樽谷 和雄",
+      "category": "講演",
+      "title": "AAPM-TG302：SGRTガイドラインを遵守したシステム、AlignRTのご紹介",
+      "eventName": "第3回秋田県放射線治療研究会",
+      "date": "2025/02/15",
+      "dateIso": "2025-02-15",
+      "location": "秋田大学医学部附属病院",
+      "notes": "SGRTのガイドラインのTG302の解説も入れながらの商品の解説、DIBH,SRSへの応用など",
+      "genres": [
+        "treatment-planning",
+        "igrt",
+        "research-education"
+      ]
+    },
+    {
+      "id": "a04c0612c667",
+      "timestamp": "2025/02/26 10:39:03",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "Ⅲ期肺癌における最適な放射線治療計画の検討",
+      "eventName": "Radiation Oncology Conference in 京都～Ⅲ期非小細胞肺癌における化学放射線療法を考える",
+      "date": "2025/01/31",
+      "dateIso": "2025-01-31",
+      "location": "ザ・サウザンド京都",
+      "notes": "Ⅲ期肺がんに対する治療計画",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "f4ecaf4622fa",
+      "timestamp": "2025/07/10 14:08:22",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "HyperArcプランニングの手順",
+      "eventName": "Eclipseハンズオンin東海",
+      "date": "2025/01/25",
+      "dateIso": "2025-01-25",
+      "location": "株式会社カナデン 中部支店",
+      "notes": "",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "37f299ba6299",
+      "timestamp": "2025/10/10 11:26:56",
+      "name": "上本 賢司",
+      "category": "講演",
+      "title": "IGRT照合技術",
+      "eventName": "第63回放射線治療セミナー",
+      "date": "2025/01/18",
+      "dateIso": "2025-01-18",
+      "location": "Web",
+      "notes": "",
+      "genres": [
+        "igrt"
+      ]
+    },
+    {
+      "id": "fd45a5fc5bfb",
+      "timestamp": "2025/01/20 12:21:52",
+      "name": "井上裕之",
+      "category": "講演",
+      "title": "放射線治療におけるインシデント",
+      "eventName": "2024年度大阪大学放射線技術科学学友会",
+      "date": "2025/01/18",
+      "dateIso": "2025-01-18",
+      "location": "大阪大学中之島センター",
+      "notes": "放射線治療での実際のインシデント事例の紹介",
+      "genres": [
+        "medical-safety"
+      ]
+    },
+    {
+      "id": "6e767dc21079",
+      "timestamp": "2025/12/03 20:27:51",
+      "name": "山下祐美恵",
+      "category": "かたろう会関連事業",
+      "title": "電子線の相互校正していますか？～クロスキャリブレーション11～",
+      "eventName": "第160回放射線治療かたろう会",
+      "date": "2024/12/21",
+      "dateIso": "2024-12-21",
+      "location": "コンファレンスプラザ大阪御堂筋",
+      "notes": "",
+      "genres": [
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "3ab7c878d43e",
+      "timestamp": "2025/07/10 14:06:10",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "Optimization",
+      "eventName": "令和6（2024）年度実習型講習会（治療計画 Eclipse）",
+      "date": "2024/12/14",
+      "dateIso": "2024-12-14",
+      "location": "森ノ宮医療大学",
+      "notes": "VMATの最適化に関する講義",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "745a73be6346",
+      "timestamp": "2024/10/10 12:34:26",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "治療計画ディスカッション",
+      "eventName": "PACIFIC Academy",
+      "date": "2024/12/12",
+      "dateIso": "2024-12-12",
+      "location": "大阪",
+      "notes": "当院のⅢ期肺がんの治療計画から照射のリアルワールド",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "538e0b771546",
+      "timestamp": "2025/01/30 21:51:47",
+      "name": "間藤亜夕未",
+      "category": "学会発表",
+      "title": "フレッチャーCT/MRアプリケータの内部破損により本線源が停止した症例提示",
+      "eventName": "マイクロセレクトロンHDR研究会　第20回学術研究会",
+      "date": "2024/12/07",
+      "dateIso": "2024-12-07",
+      "location": "品川",
+      "notes": "経年劣化した子宮RALS用アプリケータ内で、本線源が停止しそうになった事例共有。",
+      "genres": [
+        "research-education"
+      ]
+    },
+    {
+      "id": "59b322a3cf06",
+      "timestamp": "2024/12/10 11:44:01",
+      "name": "上田悦弘",
+      "category": "学会発表",
+      "title": "高線量率小線源治療装置における192-Ir線源の実効的移送時間と停留時間の多施設比較",
+      "eventName": "マイクロセレクトロンHDR研究会　第20回学術研究会",
+      "date": "2024/12/07",
+      "dateIso": "2024-12-07",
+      "location": "品川",
+      "notes": "",
+      "genres": [
+        "equipment-physics",
+        "research-education"
+      ]
+    },
+    {
+      "id": "7483a1d2ddb8",
+      "timestamp": "2024/12/10 11:32:33",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "放射線治療計画装置",
+      "eventName": "2024年度 RTT 統一講習会",
+      "date": "2024/12/07",
+      "dateIso": "2024-12-07",
+      "location": "web",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "34b4b79bf82a",
+      "timestamp": "2024/10/10 12:27:54",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "医療安全",
+      "eventName": "2024年度RTT統一講習会",
+      "date": "2024/12/02",
+      "dateIso": "2024-12-02",
+      "location": "オンデマンド",
+      "notes": "",
+      "genres": [
+        "medical-safety"
+      ]
+    },
+    {
+      "id": "eeb321100676",
+      "timestamp": "2024/12/04 14:44:18",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "臨床現場と世界を繋ぐ論文執筆実践ガイド",
+      "eventName": "日本放射線技術学会 第68回近畿支部学術大会　社会人になって、何から始める？学術研究のススメ",
+      "date": "2024/12/01",
+      "dateIso": "2024-12-01",
+      "location": "大阪市",
+      "notes": "英語論文の執筆方法を解説",
+      "genres": [
+        "research-education"
+      ]
+    },
+    {
+      "id": "9e3dbae55102",
+      "timestamp": "2024/11/11 0:06:01",
+      "name": "樽谷 和雄",
+      "category": "第73回千葉県放射線治療研究会",
+      "title": "SGRTガイドラインを遵守したシステム、AlignRTのご紹介",
+      "eventName": "第73回千葉県放射線治療研究会",
+      "date": "2024/11/28",
+      "dateIso": "2024-11-28",
+      "location": "Web",
+      "notes": "VisonRT社のAlignRT（SGRTシステム）の紹介です。",
+      "genres": [
+        "igrt",
+        "research-education"
+      ]
+    },
+    {
+      "id": "cfe121c56e47",
+      "timestamp": "2024/12/10 11:24:37",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "ハンズオンセミナー 治療計画から照射までの一貫したSRSソリューション～HyperArcを極める",
+      "eventName": "日本放射線腫瘍学会第37回学術大会",
+      "date": "2024/11/23",
+      "dateIso": "2024-11-23",
+      "location": "横浜",
+      "notes": "HyperArcの固定具、最適化について",
+      "genres": [
+        "treatment-planning",
+        "research-education"
+      ]
+    },
+    {
+      "id": "36c6ad6c8641",
+      "timestamp": "2024/11/27 13:20:54",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "臨床ニーズに応じた高精度放射線治療のためのRayStationを用いた治療計画アプローチ",
+      "eventName": "日本放射線腫瘍学会第37回学術大会",
+      "date": "2024/11/23",
+      "dateIso": "2024-11-23",
+      "location": "パシフィコ横浜ノース",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "research-education"
+      ]
+    },
+    {
+      "id": "5f29a9122689",
+      "timestamp": "2024/10/10 12:30:21",
+      "name": "山本鋭二郎",
+      "category": "学会発表",
+      "title": "アウトカムの評価なくして進化なし",
+      "eventName": "日本放射線腫瘍学会第37回学術大会",
+      "date": "2024/11/23",
+      "dateIso": "2024-11-23",
+      "location": "横浜",
+      "notes": "炎上許容セッション「ぶっちゃけトーク」というセッションでの発表です",
+      "genres": [
+        "research-education"
+      ]
+    },
+    {
+      "id": "7b5d2b69f8e4",
+      "timestamp": "2024/11/27 13:21:47",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "研究を続けていく上で大切なこと",
+      "eventName": "日本放射線技術学会近畿支部　学術研究発表ブラッシュアップセミナー",
+      "date": "2024/11/22",
+      "dateIso": "2024-11-22",
+      "location": "Web",
+      "notes": "",
+      "genres": [
+        "research-education"
+      ]
+    },
+    {
+      "id": "55179b9b39b1",
+      "timestamp": "2024/11/27 13:20:09",
+      "name": "上田悦弘",
+      "category": "学会発表",
+      "title": "脊椎定位放射線治療に対する固定精度向上を目指した新たな固定具の開発",
+      "eventName": "日本放射線腫瘍学会第37回学術大会",
+      "date": "2024/11/22",
+      "dateIso": "2024-11-22",
+      "location": "パシフィコ横浜ノース",
+      "notes": "",
+      "genres": [
+        "igrt",
+        "research-education"
+      ]
+    },
+    {
+      "id": "3bdee7628f29",
+      "timestamp": "2024/11/12 8:05:16",
+      "name": "武井良樹",
+      "category": "講演",
+      "title": "計算線量の独立検証～何のために何を検証しているのか～",
+      "eventName": "2024年度 近畿支部 秋季勉強会",
+      "date": "2024/11/10",
+      "dateIso": "2024-11-10",
+      "location": "大阪国際がんセンター",
+      "notes": "計算線量の独立計算について、検証の必要性から高精度の検証まで各種ガイドラインを元に解説。",
+      "genres": [
+        "qa-qc"
+      ]
+    },
+    {
+      "id": "71288b80cb46",
+      "timestamp": "2024/12/10 13:25:20",
+      "name": "宮崎 正義",
+      "category": "かたろう会関連事業",
+      "title": "時代は変わってもヒトは変わらない～ヒト、モノ、カネは変える、買える、替える～",
+      "eventName": "放射線治療かたろう会システム研究分科会",
+      "date": "2024/11/09",
+      "dateIso": "2024-11-09",
+      "location": "Web",
+      "notes": "スタッフ指導、事務との折衝など、リニアック装置更新をどう行っていくか、ヒトを中心に講演",
+      "genres": [
+        "equipment-physics",
+        "research-education"
+      ]
+    },
+    {
+      "id": "8671b02eac4f",
+      "timestamp": "2024/10/10 12:32:18",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "医療安全 ✕ ヒューマン・コンピュータ・インタラクション",
+      "eventName": "第５回京滋医用画像情報システム研究会",
+      "date": "2024/11/09",
+      "dateIso": "2024-11-09",
+      "location": "京都",
+      "notes": "医療情報と関連するような医療安全のお話",
+      "genres": [
+        "medical-safety",
+        "research-education"
+      ]
+    },
+    {
+      "id": "06acc940be0b",
+      "timestamp": "2024/09/19 15:23:00",
+      "name": "井上裕之",
+      "category": "学会発表",
+      "title": "生成AIを活用したスクリプト自動生成による放射線治療計画プロセスの効率化",
+      "eventName": "第１回日本放射線医療技術学術大会",
+      "date": "2024/11/02",
+      "dateIso": "2024-11-02",
+      "location": "沖縄",
+      "notes": "一部のTPSは、プログラミングを用いたスクリプト機能を搭載しているものの、汎用性が低く、カスタマイズにはプログラミング知識が必要です。そこで、生成AIを利用して自然言語の指示に基づく汎用的なスクリプトを生成し、治療計画プロセスの効率化を目指しました。この手法により、プログラミング知識がなくてもスクリプトのカスタマイズが可能になり、治療計画の効率化につながります。",
+      "genres": [
+        "treatment-planning",
+        "workflow",
+        "ai-digital"
+      ]
+    },
+    {
+      "id": "652ff3004b08",
+      "timestamp": "2024/10/12 11:54:12",
+      "name": "松本賢治",
+      "category": "学会発表",
+      "title": "residual setup errors and intrafractional motion of spine stereotactic body radiation therapy using x-ray image guidance verification system",
+      "eventName": "AOCMP 2024",
+      "date": "2024/10/12",
+      "dateIso": "2024-10-12",
+      "location": "ペナン",
+      "notes": "",
+      "genres": []
+    },
+    {
+      "id": "a972b3da06d9",
+      "timestamp": "2024/10/04 11:13:06",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "拝啓　35歳の君へ",
+      "eventName": "RisingStar計画　日本放射線技術学会近畿支部",
+      "date": "2024/09/24",
+      "dateIso": "2024-09-24",
+      "location": "神戸常盤大学",
+      "notes": "学生に研究の楽しさや、有用性を講義。人材育成のための発表。",
+      "genres": [
+        "workflow",
+        "research-education"
+      ]
+    },
+    {
+      "id": "3b0087eec08b",
+      "timestamp": "2024/10/10 12:26:20",
+      "name": "山本鋭二郎",
+      "category": "かたろう会関連事業",
+      "title": "患者セットアップ革命〜固定もマーキングもしない派〜",
+      "eventName": "第159回放射線治療かたろう会",
+      "date": "2024/09/14",
+      "dateIso": "2024-09-14",
+      "location": "大阪",
+      "notes": "",
+      "genres": [
+        "igrt"
+      ]
+    },
+    {
+      "id": "78a8eb24268a",
+      "timestamp": "2024/10/10 12:25:14",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "安全と質のバランス ～放射線治療におけるヒューマンエラーの防止と標準化",
+      "eventName": "第1回ふじのくに放射線治療研修会",
+      "date": "2024/09/07",
+      "dateIso": "2024-09-07",
+      "location": "静岡",
+      "notes": "放射線治療の質と安全を考える",
+      "genres": [
+        "medical-safety"
+      ]
+    },
+    {
+      "id": "8f1d95e81426",
+      "timestamp": "2024/10/31 1:13:29",
+      "name": "山下祐美恵",
+      "category": "講演",
+      "title": "Elements Multiple Brain Mets SRSの初期使用経験",
+      "eventName": "Brainlab Webinar 2024",
+      "date": "2024/08/31",
+      "dateIso": "2024-08-31",
+      "location": "Web",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "ai-digital"
+      ]
+    },
+    {
+      "id": "ff4239ab9c6d",
+      "timestamp": "2024/10/10 12:23:09",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "ヒューマンエラーのメカニズム ～安全な現場を築くための要素～",
+      "eventName": "広島県放射線治療技術研究会 第 150 回記念⼤会",
+      "date": "2024/08/24",
+      "dateIso": "2024-08-24",
+      "location": "広島",
+      "notes": "放射線治療における医療安全概論",
+      "genres": [
+        "medical-safety",
+        "research-education"
+      ]
+    },
+    {
+      "id": "d1e02a5107de",
+      "timestamp": "2024/10/04 11:10:29",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "医学物理観点からの解説③　定位放射線治療における固定具・位置照合",
+      "eventName": "令和6年度第1回東北医学物理スキルアップ研修会",
+      "date": "2024/08/24",
+      "dateIso": "2024-08-24",
+      "location": "Web",
+      "notes": "",
+      "genres": [
+        "igrt"
+      ]
+    },
+    {
+      "id": "591e7739d12a",
+      "timestamp": "2024/08/26 10:07:18",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "医学物理観点からの解説②（脳を中心に）",
+      "eventName": "令和6年度 第1回東北医学物理スキルアップ研修会",
+      "date": "2024/08/24",
+      "dateIso": "2024-08-24",
+      "location": "web",
+      "notes": "転移性脳腫瘍のフローで技術的におさえておくべきpoint",
+      "genres": []
+    },
+    {
+      "id": "bf47822d54c0",
+      "timestamp": "2024/08/05 8:01:44",
+      "name": "奥村圭祐",
+      "category": "講演",
+      "title": "MU検証の基礎とその重要性",
+      "eventName": "滋賀県放射線技師会　放射線治療分科会",
+      "date": "2024/07/30",
+      "dateIso": "2024-07-30",
+      "location": "web",
+      "notes": "わかば会MU検証編の内容をmodifyしたもの",
+      "genres": []
+    },
+    {
+      "id": "5ad22b8ae5ff",
+      "timestamp": "2024/10/31 1:12:24",
+      "name": "山下祐美恵",
+      "category": "かたろう会関連事業",
+      "title": "放射線治療計画概論",
+      "eventName": "わかば会",
+      "date": "2024/07/28",
+      "dateIso": "2024-07-28",
+      "location": "大阪市",
+      "notes": "",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "770790b5e63e",
+      "timestamp": "2024/07/30 16:52:43",
+      "name": "上田悦弘",
+      "category": "かたろう会関連事業",
+      "title": "放射線治療計画各論(乳房温存放射線治療計画)",
+      "eventName": "第55回わかば会",
+      "date": "2024/07/28",
+      "dateIso": "2024-07-28",
+      "location": "大阪赤十字病院",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "patient-care"
+      ]
+    },
+    {
+      "id": "e6c7b9c89af7",
+      "timestamp": "2024/07/10 10:41:22",
+      "name": "上田悦弘",
+      "category": "論文",
+      "title": "Dosimetric characteristics of self-expandable metallic and plastic stents for transpapillary biliary decompression in external beam radiotherapy",
+      "eventName": "Phys Eng Sci Med",
+      "date": "2024/07/10",
+      "dateIso": "2024-07-10",
+      "location": "",
+      "notes": "放射線治療における胆管ステント(メタリックとプラスティック)の表面線量を評価。",
+      "genres": []
+    },
+    {
+      "id": "c3cccd5cd218",
+      "timestamp": "2024/05/29 13:36:01",
+      "name": "五十野 優",
+      "category": "講演",
+      "title": "患者QA合理化への道：IMRTガイドラインの実践的利活用",
+      "eventName": "第1１回 佐賀放射線治療技術勉強会",
+      "date": "2024/07/07",
+      "dateIso": "2024-07-07",
+      "location": "佐賀大学医学部附属病院",
+      "notes": "IMRTガンドライン2023の解説と自施設での検証の合理化について",
+      "genres": [
+        "qa-qc",
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "8eda7466f0f4",
+      "timestamp": "2024/10/10 12:20:27",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "治療計画教育動画がもたらす安全へのくさび～放射線治療かたろう会の野心的取り組み～",
+      "eventName": "Varian　Live!　10",
+      "date": "2024/07/04",
+      "dateIso": "2024-07-04",
+      "location": "大阪",
+      "notes": "治療計画動画制作 WGで制作した動画の紹介",
+      "genres": [
+        "treatment-planning",
+        "ai-digital",
+        "research-education"
+      ]
+    },
+    {
+      "id": "31df62f2f194",
+      "timestamp": "2024/05/10 11:25:17",
+      "name": "松本賢治",
+      "category": "講演",
+      "title": "Challenges and difficulties of Radiation Therapists　when performing high-tech　radiotherapy IMRT/VMAT in Japan",
+      "eventName": "2024 VART",
+      "date": "2024/06/22",
+      "dateIso": "2024-06-22",
+      "location": "フエ市",
+      "notes": "",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "f3759072aab3",
+      "timestamp": "2024/05/29 13:34:04",
+      "name": "五十野 優",
+      "category": "学会発表",
+      "title": "直線加速器を用いた転移性脳腫瘍に対する定位放射線治療の多施設調査",
+      "eventName": "第33回日本定位放射線治療学会",
+      "date": "2024/06/14",
+      "dateIso": "2024-06-14",
+      "location": "パシフィコノース横浜",
+      "notes": "HyperArcを実施している多施設の調査研究，コミッショニング・線量分割・PTVマージン・検証方法・照射適応について，他施設の状況を調査した",
+      "genres": [
+        "treatment-planning",
+        "equipment-physics",
+        "igrt",
+        "research-education"
+      ]
+    },
+    {
+      "id": "d063df820880",
+      "timestamp": "2024/07/10 10:38:30",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "VMAT plannnig with RayStation",
+      "eventName": "RaySrarch APAC user meeting",
+      "date": "2024/06/08",
+      "dateIso": "2024-06-08",
+      "location": "香港",
+      "notes": "",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "760d039643f9",
+      "timestamp": "2024/06/10 11:46:55",
+      "name": "藤本隆広",
+      "category": "講演",
+      "title": "放射線発生装置の（変更）許可申請の実際と注意点",
+      "eventName": "医療機関の放射線業務従事者のための放射性同位元素等規制法講習会",
+      "date": "2024/06/08",
+      "dateIso": "2024-06-08",
+      "location": "WEB",
+      "notes": "",
+      "genres": [
+        "equipment-physics",
+        "workflow"
+      ]
+    },
+    {
+      "id": "41c72d1a8831",
+      "timestamp": "2024/07/10 10:37:49",
+      "name": "上田悦弘",
+      "category": "学会発表",
+      "title": "高線量率小線源治療装置における192-Ir線源の実効的移送時間と停留時間の多施設比較",
+      "eventName": "日本放射線腫瘍学会小線源治療部会第26回学術大会",
+      "date": "2024/05/24",
+      "dateIso": "2024-05-24",
+      "location": "高崎市",
+      "notes": "",
+      "genres": [
+        "equipment-physics",
+        "research-education"
+      ]
+    },
+    {
+      "id": "1d299219ae45",
+      "timestamp": "2024/07/10 10:40:07",
+      "name": "上田悦弘",
+      "category": "論文",
+      "title": "Feasibility of a portable respiratory training system with a gyroscope sensor",
+      "eventName": "British Journal of Radiology",
+      "date": "2024/05/10",
+      "dateIso": "2024-05-10",
+      "location": "",
+      "notes": "ジャイロセンサーを用いた呼吸トレーニングシステムの開発の有効性の評価　First Author: 新田雄也",
+      "genres": [
+        "ai-digital"
+      ]
+    },
+    {
+      "id": "10b77db9fbb4",
+      "timestamp": "2024/05/10 11:32:46",
+      "name": "松下矩正",
+      "category": "学会発表",
+      "title": "Enhancing the Positioning Accuracy of Pelvic Irradiation in Prone Position with Surface-Guided Radiotherapy",
+      "eventName": "SGRT APAC Meeting2024",
+      "date": "2024/04/19",
+      "dateIso": "2024-04-19",
+      "location": "メルボルン",
+      "notes": "ベリーボードを使用した腹臥位骨盤照射におけるSGRTの有用性評価",
+      "genres": [
+        "igrt"
+      ]
+    },
+    {
+      "id": "6ed6a4288d7d",
+      "timestamp": "2024/07/10 17:54:37",
+      "name": "上田悦弘",
+      "category": "学会発表",
+      "title": "左乳房深吸気息止め照射におけるin vivo dosimetryによるセットアップエラー検出基準の決定",
+      "eventName": "第80回日本放射線技術学会総会学術大会",
+      "date": "2024/04/14",
+      "dateIso": "2024-04-14",
+      "location": "横浜市",
+      "notes": "第一発表者：森谷真衣",
+      "genres": [
+        "igrt",
+        "research-education",
+        "patient-care"
+      ]
+    },
+    {
+      "id": "d8d0f391a4da",
+      "timestamp": "2024/05/10 11:23:07",
+      "name": "松本賢治",
+      "category": "講演",
+      "title": "AAPM WGTG51 Report 374:　TG-51 ガイダンスの解説　　~God is in the details~",
+      "eventName": "2024 JRC",
+      "date": "2024/04/13",
+      "dateIso": "2024-04-13",
+      "location": "横浜",
+      "notes": "",
+      "genres": [
+        "ai-digital"
+      ]
+    },
+    {
+      "id": "50cae3e7cc1c",
+      "timestamp": "2024/04/10 11:31:38",
+      "name": "武井良樹",
+      "category": "かたろう会関連事業",
+      "title": "セットアップを考える上で必要な知識",
+      "eventName": "第54回わかば会",
+      "date": "2024/03/31",
+      "dateIso": "2024-03-31",
+      "location": "京都大学医学部附属病院＋Web",
+      "notes": "叢書33と40をベースに初学者向けの内容",
+      "genres": [
+        "igrt"
+      ]
+    },
+    {
+      "id": "e2fc27853403",
+      "timestamp": "2024/04/10 11:43:34",
+      "name": "藤本隆広",
+      "category": "講演",
+      "title": "医療機関における年度末の管理の方法(帳簿の記載方法・従事者の管理方法)",
+      "eventName": "医療機関の放射線業務従事者のための放射性同位元素等規制法講習会",
+      "date": "2024/03/23",
+      "dateIso": "2024-03-23",
+      "location": "WEB",
+      "notes": "RI規制法に係る帳簿・記録の処理",
+      "genres": [
+        "workflow"
+      ]
+    },
+    {
+      "id": "45661e6bacd9",
+      "timestamp": "2024/07/10 10:56:19",
+      "name": "上田悦弘",
+      "category": "かたろう会関連事業",
+      "title": "YouTube，始めました．放射線治療物理技術者に対する放射線治療計画教育の行く道",
+      "eventName": "第157回放射線治療かたろう会",
+      "date": "2024/03/16",
+      "dateIso": "2024-03-16",
+      "location": "Web",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "research-education"
+      ]
+    },
+    {
+      "id": "82051f7b280f",
+      "timestamp": "2024/03/30 15:36:42",
+      "name": "山下祐美恵",
+      "category": "かたろう会関連事業",
+      "title": "IMRTの線量検証法",
+      "eventName": "第157回放射線治療かたろう会",
+      "date": "2024/03/16",
+      "dateIso": "2024-03-16",
+      "location": "",
+      "notes": "",
+      "genres": [
+        "qa-qc",
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "3349b92f5fa7",
+      "timestamp": "2024/05/10 11:30:32",
+      "name": "松下矩正",
+      "category": "講演",
+      "title": "セットアップ・画像照合の現状と標準化",
+      "eventName": "第5回RTT医療安全セミナー",
+      "date": "2024/03/09",
+      "dateIso": "2024-03-09",
+      "location": "がん研有明病院",
+      "notes": "セットアップ・画像照合の標準化に関する取り組みの紹介",
+      "genres": [
+        "medical-safety",
+        "igrt"
+      ]
+    },
+    {
+      "id": "ad88c8752da7",
+      "timestamp": "2024/05/10 11:28:03",
+      "name": "松下矩正",
+      "category": "学会発表",
+      "title": "皮膚マーカーレスの実現に向けた当院の取り組み",
+      "eventName": "第56回京都放射線腫瘍研究会",
+      "date": "2024/02/17",
+      "dateIso": "2024-02-17",
+      "location": "京都教育文化センター",
+      "notes": "SGRTによる皮膚マーカレスに向けた取り組みの紹介",
+      "genres": [
+        "igrt",
+        "research-education"
+      ]
+    },
+    {
+      "id": "b8e6cb7e6b80",
+      "timestamp": "2024/07/10 10:49:30",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "左乳房温存術後照射（VMAT）への取り組み",
+      "eventName": "東京都がん診療連携拠点病院診療放射線技師研修会",
+      "date": "2024/02/09",
+      "dateIso": "2024-02-09",
+      "location": "Web",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "patient-care"
+      ]
+    },
+    {
+      "id": "6e53b902b374",
+      "timestamp": "2024/11/10 11:29:29",
+      "name": "山本鋭二郎",
+      "category": "講演",
+      "title": "IGRT精度を左右する要因 ～ノンテクニカルスキルを中心に～",
+      "eventName": "JSRT治療部会　第63回放射線治療セミナー",
+      "date": "2024/01/18",
+      "dateIso": "2024-01-18",
+      "location": "Webinar",
+      "notes": "",
+      "genres": [
+        "igrt"
+      ]
+    },
+    {
+      "id": "017d224bc4f3",
+      "timestamp": "2024/08/05 8:06:45",
+      "name": "奥村圭祐",
+      "category": "かたろう会関連事業",
+      "title": "MLCの基礎と精度管理~高精度な線量送達を担保するために~",
+      "eventName": "第156回放射線治療かたろう会",
+      "date": "2023/12/23",
+      "dateIso": "2023-12-23",
+      "location": "コンファレンスプラザ大阪御堂筋",
+      "notes": "",
+      "genres": [
+        "qa-qc",
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "634fe8bf4be4",
+      "timestamp": "2024/07/10 10:54:43",
+      "name": "上田悦弘",
+      "category": "かたろう会関連事業",
+      "title": "IGRTにおける新人教育～現場で正しい判断をするために！　IGRT能力向上カンファレンス～",
+      "eventName": "第156回放射線治療かたろう会",
+      "date": "2023/12/23",
+      "dateIso": "2023-12-23",
+      "location": "Web",
+      "notes": "",
+      "genres": [
+        "igrt",
+        "research-education"
+      ]
+    },
+    {
+      "id": "0193c6b77851",
+      "timestamp": "2024/07/10 10:51:14",
+      "name": "上田悦弘",
+      "category": "学会発表",
+      "title": "リニアック搭載型画像誘導放射線治療システムよる追尾可能な金属胆管ステントの開発",
+      "eventName": "第36回日本放射線腫瘍学会",
+      "date": "2023/12/01",
+      "dateIso": "2023-12-01",
+      "location": "横浜市",
+      "notes": "",
+      "genres": [
+        "equipment-physics",
+        "research-education"
+      ]
+    },
+    {
+      "id": "e306fa1fa937",
+      "timestamp": "2024/07/10 10:53:04",
+      "name": "上田悦弘",
+      "category": "講演",
+      "title": "肺癌定位放射線治療の呼吸性移動対策",
+      "eventName": "医学物理士セミナー③",
+      "date": "2023/10/07",
+      "dateIso": "2023-10-07",
+      "location": "Web",
+      "notes": "",
+      "genres": [
+        "igrt"
+      ]
+    },
+    {
+      "id": "b4917ae374e6",
+      "timestamp": "2024/09/10 13:39:33",
+      "name": "田村 命",
+      "category": "教科書",
+      "title": "Chapter 12 Electron beam SFRT",
+      "eventName": "Spatially Fractionated, Microbeam and FLASH Radiation Therapy",
+      "date": "2023/06/01",
+      "dateIso": "2023-06-01",
+      "location": "IOP Science",
+      "notes": "https://doi.org/10.1088/978-0-7503-4046-5ch12",
+      "genres": []
+    },
+    {
+      "id": "6090eb8be177",
+      "timestamp": "2024/09/10 13:31:04",
+      "name": "田村 命",
+      "category": "講演",
+      "title": "放射線治療計画の自動化による効率化とその信頼性",
+      "eventName": "第35回 高精度放射線外部照射部会学術大会",
+      "date": "2022/03/05",
+      "dateIso": "2022-03-05",
+      "location": "Web開催",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "workflow"
+      ]
+    },
+    {
+      "id": "ac49e2955939",
+      "timestamp": "2024/09/10 13:33:47",
+      "name": "田村 命",
+      "category": "講演",
+      "title": "放射線治療とAI (人工知能)",
+      "eventName": "2021 医学物理士セミナー「知見を広げる」",
+      "date": "2021/08/07",
+      "dateIso": "2021-08-07",
+      "location": "Web開催",
+      "notes": "",
+      "genres": [
+        "ai-digital"
+      ]
+    },
+    {
+      "id": "7df3f8b63107",
+      "timestamp": "2024/09/10 13:34:45",
+      "name": "田村 命",
+      "category": "講演",
+      "title": "Current research topic of radiation treatment planning with AI",
+      "eventName": "The 7th Online Conference of Southeast Asia and Open Asia & The 6th Asia Continuous Professional Development",
+      "date": "2021/06/27",
+      "dateIso": "2021-06-27",
+      "location": "Web開催",
+      "notes": "",
+      "genres": [
+        "ai-digital"
+      ]
+    },
+    {
+      "id": "dc99fae50bc8",
+      "timestamp": "2024/09/10 13:43:10",
+      "name": "田村 命",
+      "category": "講演",
+      "title": "RapidPlanによる効率化",
+      "eventName": "令和2年度 東北大学医学物理セミナー",
+      "date": "2020/11/21",
+      "dateIso": "2020-11-21",
+      "location": "Web開催",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "workflow"
+      ]
+    },
+    {
+      "id": "99a661c87f87",
+      "timestamp": "2024/09/10 13:35:39",
+      "name": "田村 命",
+      "category": "講演",
+      "title": "知識ベース放射線治療計画の現状と展望",
+      "eventName": "第80回 放射線治療部会",
+      "date": "2020/06/14",
+      "dateIso": "2020-06-14",
+      "location": "Web開催",
+      "notes": "",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "232b5f78f295",
+      "timestamp": "2024/09/10 13:44:24",
+      "name": "田村 命",
+      "category": "講演",
+      "title": "肺癌放射線治療に必要な治療技術 〜呼吸性移動対策とIMRTを中心に〜",
+      "eventName": "放射線治療セミナー 〜局所進行非小細胞肺癌治療を考える〜",
+      "date": "2019/11/29",
+      "dateIso": "2019-11-29",
+      "location": "松山市",
+      "notes": "",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
+      "id": "02aa4f6f268b",
+      "timestamp": "2024/09/10 13:45:18",
+      "name": "田村 命",
+      "category": "学会発表",
+      "title": "Halcyon linacに対する新規ボードを使用した標準ビーム測定: ビーム測定プロセスは省略できるのか？",
+      "eventName": "第32回 日本放射線腫瘍学会 学術大会",
+      "date": "2019/11/23",
+      "dateIso": "2019-11-23",
+      "location": "名古屋市",
+      "notes": "",
+      "genres": [
+        "equipment-physics",
+        "research-education"
+      ]
+    },
+    {
+      "id": "2776a0d6b28c",
+      "timestamp": "2024/09/10 13:47:27",
+      "name": "田村 命",
+      "category": "学会発表",
+      "title": "臨床放射線線量計に向けた新規フォトクロミックジアリールエテンフィルムの開発",
+      "eventName": "田村 命, 門前 一, 松本 賢治, 大塚 正和 第19回 アジア-オセアニア医学物理学会学術大会",
+      "date": "2019/10/30",
+      "dateIso": "2019-10-30",
+      "location": "パース",
+      "notes": "",
+      "genres": [
+        "equipment-physics",
+        "research-education"
+      ]
+    },
+    {
+      "id": "27df5dc5cda0",
+      "timestamp": "2024/09/10 13:46:03",
+      "name": "田村 命",
+      "category": "学会発表",
+      "title": "Halcyon linacの二段マルチリーフコリメータの機器動作特性",
+      "eventName": "第19回 アジア-オセアニア医学物理学会 学術大会",
+      "date": "2019/10/30",
+      "dateIso": "2019-10-30",
+      "location": "パース",
+      "notes": "",
+      "genres": [
+        "research-education"
+      ]
+    },
+    {
+      "id": "d3356221817f",
+      "timestamp": "2024/09/10 13:48:57",
+      "name": "田村 命",
+      "category": "学会発表",
+      "title": "前立腺癌に対する知識ベース強度変調回転放射線治療の臨床への適用",
+      "eventName": "第115回 日本医学物理学会学術大会",
+      "date": "2018/04/13",
+      "dateIso": "2018-04-13",
+      "location": "横浜",
+      "notes": "",
+      "genres": [
+        "research-education"
+      ]
+    }
+  ]
+}
