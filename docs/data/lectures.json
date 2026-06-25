@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-24T02:13:08.415Z",
+  "updatedAt": "2026-06-25T08:37:17.756Z",
   "source": {
     "spreadsheetId": "1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI",
     "gid": "622302178",
     "url": "https://docs.google.com/spreadsheets/d/1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI/edit?gid=622302178"
   },
-  "totalInSheet": 396,
-  "publishedCount": 133,
+  "totalInSheet": 399,
+  "publishedCount": 136,
   "speakerCount": 19,
   "nameMergeGroups": 14,
   "genres": [
@@ -53,14 +53,14 @@
   ],
   "genreCounts": {
     "medical-safety": 14,
-    "qa-qc": 18,
-    "treatment-planning": 39,
-    "equipment-physics": 27,
+    "qa-qc": 19,
+    "treatment-planning": 40,
+    "equipment-physics": 28,
     "igrt": 21,
     "workflow": 25,
     "ai-digital": 13,
     "disaster-bcp": 7,
-    "research-education": 45,
+    "research-education": 46,
     "patient-care": 7
   },
   "activityTypes": [
@@ -95,6 +95,22 @@
   ],
   "lectures": [
     {
+      "id": "541e250b520b",
+      "timestamp": "2026/06/25 13:50:43",
+      "name": "五十野 優",
+      "category": "講演",
+      "activityType": "講演",
+      "title": "Fine-tuneで極める治療計画の質：最終段階のブラッシュアップと実践的アプローチ",
+      "eventName": "RayStationユーザーミーティング2026",
+      "date": "2026/06/27",
+      "dateIso": "2026-06-27",
+      "location": "web",
+      "notes": "Fine-tune機能の使用方法",
+      "genres": [
+        "treatment-planning"
+      ]
+    },
+    {
       "id": "349a36cda4a6",
       "timestamp": "2026/06/17 17:49:19",
       "name": "井上裕之",
@@ -111,6 +127,22 @@
         "qa-qc",
         "disaster-bcp",
         "research-education"
+      ]
+    },
+    {
+      "id": "05d820147c08",
+      "timestamp": "2026/06/25 13:52:18",
+      "name": "五十野 優",
+      "category": "講演",
+      "activityType": "講演",
+      "title": "安全な放射線治療を支えるMachine QAの実践　－当院の運用と標準化－",
+      "eventName": "JSRT近畿支部 2026年度放射線治療セミナー",
+      "date": "2026/06/21",
+      "dateIso": "2026-06-21",
+      "location": "大阪市",
+      "notes": "MachineQAの実践について",
+      "genres": [
+        "qa-qc"
       ]
     },
     {
@@ -145,6 +177,23 @@
       "genres": [
         "medical-safety",
         "workflow"
+      ]
+    },
+    {
+      "id": "1cc24c15758a",
+      "timestamp": "2026/06/25 17:35:56",
+      "name": "武井良樹",
+      "category": "講演",
+      "activityType": "研究会",
+      "title": "リニアック標準計測法24の実務ポイント〜現場の疑問から理解するリニアック校正〜",
+      "eventName": "⻑野県放射線治療技術研究会",
+      "date": "2026/05/16",
+      "dateIso": "2026-05-16",
+      "location": "信州大学医学部附属病院",
+      "notes": "リニアック標準計測法24について",
+      "genres": [
+        "equipment-physics",
+        "research-education"
       ]
     },
     {
@@ -227,7 +276,7 @@
       "date": "2026/02/13",
       "dateIso": "2026-02-13",
       "location": "Web",
-      "notes": "災害対策事業WGのアンケート結果をもとに災害時のQAについて話します",
+      "notes": "災害対策事業WGのアンケート結果をもとに災害時のQAについて",
       "genres": [
         "qa-qc",
         "disaster-bcp",
@@ -2128,7 +2177,7 @@
       "date": "2021/3/12",
       "dateIso": "2021-03-12",
       "location": "Web",
-      "notes": "OCGH主催の市民医学講座（Web）で放射線と放射線治療の基礎についてさくっと話します",
+      "notes": "OCGH主催の市民医学講座（Web）で放射線と放射線治療の基礎について",
       "genres": []
     },
     {
