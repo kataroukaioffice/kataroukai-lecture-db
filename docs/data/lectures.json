@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-25T08:37:17.756Z",
+  "updatedAt": "2026-06-26T08:40:20.554Z",
   "source": {
     "spreadsheetId": "1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI",
     "gid": "622302178",
     "url": "https://docs.google.com/spreadsheets/d/1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI/edit?gid=622302178"
   },
-  "totalInSheet": 399,
-  "publishedCount": 136,
+  "totalInSheet": 400,
+  "publishedCount": 137,
   "speakerCount": 19,
   "nameMergeGroups": 14,
   "genres": [
@@ -94,6 +94,20 @@
     }
   ],
   "lectures": [
+    {
+      "id": "9f00c71f2504",
+      "timestamp": "2026/06/25 17:43:15",
+      "name": "武井良樹",
+      "category": "大学講義",
+      "activityType": "大学講義",
+      "title": "先進核医学〜現場技師が担う核医学内用療法の実践〜",
+      "eventName": "森ノ宮医療大学特別講義",
+      "date": "2026/07/07",
+      "dateIso": "2026-07-07",
+      "location": "森ノ宮医療大学",
+      "notes": "核医学治療の実践．ルテチウム内用療法の立ち上げ等の話．",
+      "genres": []
+    },
     {
       "id": "541e250b520b",
       "timestamp": "2026/06/25 13:50:43",
