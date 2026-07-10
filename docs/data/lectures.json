@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-09T09:06:03.460Z",
+  "updatedAt": "2026-07-10T08:52:16.271Z",
   "source": {
     "spreadsheetId": "1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI",
     "gid": "622302178",
     "url": "https://docs.google.com/spreadsheets/d/1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI/edit?gid=622302178"
   },
-  "totalInSheet": 400,
-  "publishedCount": 137,
+  "totalInSheet": 403,
+  "publishedCount": 140,
   "speakerCount": 19,
   "nameMergeGroups": 14,
   "genres": [
@@ -95,6 +95,20 @@
   ],
   "lectures": [
     {
+      "id": "6e61512a41d5",
+      "timestamp": "2026/07/10 12:48:20",
+      "name": "松本賢治",
+      "category": "学会発表",
+      "activityType": "学会発表",
+      "title": "Evaluation of Flattening Filter Free Beams for Breast Radiotherapy Using the Deep Inspiration Breath Hold Technique",
+      "eventName": "2026 AOCMP",
+      "date": "2026/09/09",
+      "dateIso": "2026-09-09",
+      "location": "釜山",
+      "notes": "",
+      "genres": []
+    },
+    {
       "id": "9f00c71f2504",
       "timestamp": "2026/06/25 17:43:15",
       "name": "武井良樹",
@@ -158,6 +172,34 @@
         "disaster-bcp",
         "research-education"
       ]
+    },
+    {
+      "id": "bbac17698295",
+      "timestamp": "2026/07/10 12:21:23",
+      "name": "松本賢治",
+      "category": "学会発表",
+      "activityType": "学会発表",
+      "title": "Clinical Implementation of CTED table for HyperSight CBCT-based Adaptive Radiotherapy",
+      "eventName": "2026 SEACOMP & VART",
+      "date": "2026/06/20",
+      "dateIso": "2026-06-20",
+      "location": "ダナン",
+      "notes": "",
+      "genres": []
+    },
+    {
+      "id": "3ffef4e2f03b",
+      "timestamp": "2026/07/10 12:27:57",
+      "name": "松本賢治",
+      "category": "講演",
+      "activityType": "講演",
+      "title": "Preparation for ART Implementation Using Hypersight CBCT",
+      "eventName": "2026 ESTRO school",
+      "date": "2026/06/14",
+      "dateIso": "2026-06-14",
+      "location": "東京",
+      "notes": "",
+      "genres": []
     },
     {
       "id": "1cc24c15758a",
