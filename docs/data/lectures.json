@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-09T21:22:18.504Z",
+  "updatedAt": "2026-08-10T21:32:45.722Z",
   "source": {
     "spreadsheetId": "1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI",
     "gid": "622302178",
     "url": "https://docs.google.com/spreadsheets/d/1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI/edit?gid=622302178"
   },
-  "totalInSheet": 403,
-  "publishedCount": 140,
+  "totalInSheet": 410,
+  "publishedCount": 147,
   "speakerCount": 19,
   "nameMergeGroups": 14,
   "genres": [
@@ -53,14 +53,14 @@
   ],
   "genreCounts": {
     "medical-safety": 14,
-    "qa-qc": 19,
-    "treatment-planning": 40,
-    "equipment-physics": 28,
+    "qa-qc": 21,
+    "treatment-planning": 41,
+    "equipment-physics": 29,
     "igrt": 21,
-    "workflow": 25,
-    "ai-digital": 13,
+    "workflow": 26,
+    "ai-digital": 15,
     "disaster-bcp": 7,
-    "research-education": 46,
+    "research-education": 48,
     "patient-care": 7
   },
   "activityTypes": [
@@ -95,6 +95,57 @@
   ],
   "lectures": [
     {
+      "id": "dd152d54ed55",
+      "timestamp": "2026/08/10 11:59:22",
+      "name": "水野裕一",
+      "category": "学会発表",
+      "activityType": "学会発表",
+      "title": "医学物理士の知見を生成AIで加速させる放射線治療教育DXの試み：ローテータへの情報配信モデル",
+      "eventName": "JCHO学会",
+      "date": "2026/10/09",
+      "dateIso": "2026-10-09",
+      "location": "大阪",
+      "notes": "生成AIを活用し、QAデータ・ガイドライン・教育情報を統合してローテータへ適切なタイミングで配信するWebシステムを構築した。情報の属人化と参照コストを低減し、医学物理士の知見を「組織の共通資産」として共有することで、教育の標準化と組織的人材育成を促進する可能性が示された。",
+      "genres": [
+        "qa-qc",
+        "workflow",
+        "ai-digital",
+        "research-education"
+      ]
+    },
+    {
+      "id": "dc0cbb64c7a8",
+      "timestamp": "2026/08/10 12:01:15",
+      "name": "水野裕一",
+      "category": "かたろう会関連事業",
+      "activityType": "かたろう会関連事業",
+      "title": "FFFビームは、速いだけじゃない― 物理特性・症例選択・線量測定から考える臨床活用 ―",
+      "eventName": "167thかたろう会",
+      "date": "2026/10/03",
+      "dateIso": "2026-10-03",
+      "location": "コンファレンスプラザ",
+      "notes": "FFFの基礎",
+      "genres": [
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "abb65c7104cc",
+      "timestamp": "2026/08/10 12:02:58",
+      "name": "水野裕一",
+      "category": "座談会のスピーカー",
+      "activityType": "座談会のスピーカー",
+      "title": "なし",
+      "eventName": "JCMP第40回zoom座談会",
+      "date": "2026/09/15",
+      "dateIso": "2026-09-15",
+      "location": "web",
+      "notes": "生成AIの活用方法に関して",
+      "genres": [
+        "ai-digital"
+      ]
+    },
+    {
       "id": "6e61512a41d5",
       "timestamp": "2026/07/10 12:48:20",
       "name": "松本賢治",
@@ -105,6 +156,38 @@
       "date": "2026/09/09",
       "dateIso": "2026-09-09",
       "location": "釜山",
+      "notes": "",
+      "genres": []
+    },
+    {
+      "id": "0a15793ba454",
+      "timestamp": "2026/08/10 11:56:34",
+      "name": "水野裕一",
+      "category": "学会発表",
+      "activityType": "学会発表",
+      "title": "知識の保持から情報の最適化へ：LLMと視覚化ツールを用いた医学物理教育の再設計",
+      "eventName": "132th JSMP",
+      "date": "2026/08/29",
+      "dateIso": "2026-08-29",
+      "location": "新潟",
+      "notes": "LLMと視覚化ツールを活用し、ガイドラインやQA手順を構造化・図解化して、現場で即時参照できる医学物理教育環境を構築した。これにより教育コストと指導負担の軽減が期待され、医学物理士には「知識の保持者」から「教育環境の設計者」へ役割を広げる可能性が示された。",
+      "genres": [
+        "qa-qc",
+        "treatment-planning",
+        "research-education"
+      ]
+    },
+    {
+      "id": "20fc74295cf2",
+      "timestamp": "2026/08/10 14:41:16",
+      "name": "松本賢治",
+      "category": "講演",
+      "activityType": "講演",
+      "title": "放射線治療概論",
+      "eventName": "かたろう会 1day workshop",
+      "date": "2026/08/01",
+      "dateIso": "2026-08-01",
+      "location": "大阪",
       "notes": "",
       "genres": []
     },
@@ -174,6 +257,20 @@
       ]
     },
     {
+      "id": "d250f04490f6",
+      "timestamp": "2026/08/10 14:39:45",
+      "name": "松本賢治",
+      "category": "講演",
+      "activityType": "講演",
+      "title": "Preparation for ART Implementation Using Hypersight СВСТ",
+      "eventName": "2026 ESTRO School",
+      "date": "2026/06/21",
+      "dateIso": "2026-06-21",
+      "location": "東京",
+      "notes": "",
+      "genres": []
+    },
+    {
       "id": "bbac17698295",
       "timestamp": "2026/07/10 12:21:23",
       "name": "松本賢治",
@@ -181,6 +278,20 @@
       "activityType": "学会発表",
       "title": "Clinical Implementation of CTED table for HyperSight CBCT-based Adaptive Radiotherapy",
       "eventName": "2026 SEACOMP & VART",
+      "date": "2026/06/20",
+      "dateIso": "2026-06-20",
+      "location": "ダナン",
+      "notes": "",
+      "genres": []
+    },
+    {
+      "id": "6fbf630f9cd7",
+      "timestamp": "2026/08/10 14:37:19",
+      "name": "松本賢治",
+      "category": "学会発表",
+      "activityType": "学会発表",
+      "title": "Clinical Implementation of CTED table for HyperSight CBCT-based Adaptive Radiotherapy",
+      "eventName": "2026 SEACOMP",
       "date": "2026/06/20",
       "dateIso": "2026-06-20",
       "location": "ダナン",
