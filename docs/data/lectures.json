@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-07T23:10:54.114Z",
+  "updatedAt": "2026-09-08T23:04:05.624Z",
   "source": {
     "spreadsheetId": "1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI",
     "gid": "622302178",
     "url": "https://docs.google.com/spreadsheets/d/1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI/edit?gid=622302178"
   },
-  "totalInSheet": 410,
-  "publishedCount": 147,
+  "totalInSheet": 411,
+  "publishedCount": 148,
   "speakerCount": 19,
   "nameMergeGroups": 14,
   "genres": [
@@ -54,13 +54,13 @@
   "genreCounts": {
     "medical-safety": 14,
     "qa-qc": 21,
-    "treatment-planning": 41,
+    "treatment-planning": 42,
     "equipment-physics": 29,
     "igrt": 21,
     "workflow": 26,
     "ai-digital": 15,
     "disaster-bcp": 7,
-    "research-education": 48,
+    "research-education": 49,
     "patient-care": 7
   },
   "activityTypes": [
@@ -173,6 +173,23 @@
       "notes": "LLMと視覚化ツールを活用し、ガイドラインやQA手順を構造化・図解化して、現場で即時参照できる医学物理教育環境を構築した。これにより教育コストと指導負担の軽減が期待され、医学物理士には「知識の保持者」から「教育環境の設計者」へ役割を広げる可能性が示された。",
       "genres": [
         "qa-qc",
+        "treatment-planning",
+        "research-education"
+      ]
+    },
+    {
+      "id": "17574e13f58e",
+      "timestamp": "2026/09/08 12:55:55",
+      "name": "五十野 優",
+      "category": "学会発表",
+      "activityType": "学会発表",
+      "title": "高精度放射線治療計画におけるピアレビュー有用性の評価",
+      "eventName": "第132回日本医学物理学会",
+      "date": "2026/08/29",
+      "dateIso": "2026-08-29",
+      "location": "新潟",
+      "notes": "OICIで取り組んでいる治療計画ピアレビューについて、50%以上の症例で修正され、線量の改善等が実施できた",
+      "genres": [
         "treatment-planning",
         "research-education"
       ]
