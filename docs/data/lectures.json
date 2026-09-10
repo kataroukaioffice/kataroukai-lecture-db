@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-09T22:50:22.242Z",
+  "updatedAt": "2026-09-10T22:51:39.304Z",
   "source": {
     "spreadsheetId": "1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI",
     "gid": "622302178",
     "url": "https://docs.google.com/spreadsheets/d/1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI/edit?gid=622302178"
   },
-  "totalInSheet": 411,
-  "publishedCount": 148,
+  "totalInSheet": 413,
+  "publishedCount": 150,
   "speakerCount": 19,
   "nameMergeGroups": 14,
   "genres": [
@@ -60,7 +60,7 @@
     "workflow": 26,
     "ai-digital": 15,
     "disaster-bcp": 7,
-    "research-education": 49,
+    "research-education": 50,
     "patient-care": 7
   },
   "activityTypes": [
@@ -94,6 +94,36 @@
     }
   ],
   "lectures": [
+    {
+      "id": "0737ddb3615f",
+      "timestamp": "2026/09/10 12:10:28",
+      "name": "田村 命",
+      "category": "講演",
+      "activityType": "講演",
+      "title": "南大阪初となるサイバーナイフ導入・立ち上げの舞台裏と治療効果",
+      "eventName": "2026年度 大阪府下公立病院放射線技師会 学術研修会",
+      "date": "2026/11/28",
+      "dateIso": "2026-11-28",
+      "location": "難波市民学習センター",
+      "notes": "サイバーナイフの導入経緯や立ち上げまでの道のり、技術的な解説と治療効果についての講演。",
+      "genres": []
+    },
+    {
+      "id": "cea18a8eec44",
+      "timestamp": "2026/09/10 12:13:19",
+      "name": "田村 命",
+      "category": "講演",
+      "activityType": "講演",
+      "title": "なぜ？から始める放射線技術学研究 －研究が切り拓く臨床の未来－",
+      "eventName": "第1回 近畿放射線医療技術合同学術大会",
+      "date": "2026/10/31",
+      "dateIso": "2026-10-31",
+      "location": "神戸国際会議場",
+      "notes": "JSRT近畿支部 研究教育委員の事業の一つである「Rising star計画」での講演。学生や新人に向けて、研究の楽しさを伝える。",
+      "genres": [
+        "research-education"
+      ]
+    },
     {
       "id": "dd152d54ed55",
       "timestamp": "2026/08/10 11:59:22",
