@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-12T00:06:48.196Z",
+  "updatedAt": "2026-10-13T02:18:59.697Z",
   "source": {
     "spreadsheetId": "1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI",
     "gid": "622302178",
     "url": "https://docs.google.com/spreadsheets/d/1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI/edit?gid=622302178"
   },
-  "totalInSheet": 414,
-  "publishedCount": 151,
+  "totalInSheet": 418,
+  "publishedCount": 155,
   "speakerCount": 19,
   "nameMergeGroups": 14,
   "genres": [
@@ -54,13 +54,13 @@
   "genreCounts": {
     "medical-safety": 15,
     "qa-qc": 21,
-    "treatment-planning": 42,
-    "equipment-physics": 29,
+    "treatment-planning": 43,
+    "equipment-physics": 30,
     "igrt": 21,
     "workflow": 26,
-    "ai-digital": 15,
+    "ai-digital": 18,
     "disaster-bcp": 7,
-    "research-education": 50,
+    "research-education": 53,
     "patient-care": 7
   },
   "activityTypes": [
@@ -125,6 +125,23 @@
       "genres": []
     },
     {
+      "id": "43dc725c339d",
+      "timestamp": "2026/10/13 9:16:12",
+      "name": "水野裕一",
+      "category": "かたろう会関連事業",
+      "activityType": "かたろう会関連事業",
+      "title": "AIの80点を、現場に出せる形にする～放射線治療における生成AI実装の5ステップ～",
+      "eventName": "24thシステム研究分科会",
+      "date": "2026/11/21",
+      "dateIso": "2026-11-21",
+      "location": "コンファレンスプラザ大阪御堂筋",
+      "notes": "生成AIの臨床現場での活用方法",
+      "genres": [
+        "ai-digital",
+        "research-education"
+      ]
+    },
+    {
       "id": "cea18a8eec44",
       "timestamp": "2026/09/10 12:13:19",
       "name": "田村 命",
@@ -160,6 +177,23 @@
       ]
     },
     {
+      "id": "fd0dd334d881",
+      "timestamp": "2026/10/13 9:10:25",
+      "name": "水野裕一",
+      "category": "学会発表",
+      "activityType": "学会発表",
+      "title": "医学物理士の知見を生成AIで加速させる放射線治療教育DXの試み：ローテータへの情報配信モデル",
+      "eventName": "第11回JCHO地域医療総合医学会",
+      "date": "2026/10/09",
+      "dateIso": "2026-10-09",
+      "location": "大阪国際会議場",
+      "notes": "生成AIを利用した教育システム構築",
+      "genres": [
+        "ai-digital",
+        "research-education"
+      ]
+    },
+    {
       "id": "dc0cbb64c7a8",
       "timestamp": "2026/08/10 12:01:15",
       "name": "水野裕一",
@@ -171,6 +205,22 @@
       "dateIso": "2026-10-03",
       "location": "コンファレンスプラザ",
       "notes": "FFFの基礎",
+      "genres": [
+        "equipment-physics"
+      ]
+    },
+    {
+      "id": "ddbe1e051297",
+      "timestamp": "2026/10/13 9:15:05",
+      "name": "水野裕一",
+      "category": "かたろう会関連事業",
+      "activityType": "かたろう会関連事業",
+      "title": "FFFビームは、速いだけじゃない― 物理特性・症例選択・線量測定から考える臨床活用 ―",
+      "eventName": "167thかたろう会",
+      "date": "2026/10/03",
+      "dateIso": "2026-10-03",
+      "location": "コンファレンスプラザ大阪御堂筋",
+      "notes": "FFFの基礎講演",
       "genres": [
         "equipment-physics"
       ]
@@ -237,6 +287,24 @@
       "notes": "OICIで取り組んでいる治療計画ピアレビューについて、50%以上の症例で修正され、線量の改善等が実施できた",
       "genres": [
         "treatment-planning",
+        "research-education"
+      ]
+    },
+    {
+      "id": "018669e4dafc",
+      "timestamp": "2026/10/13 9:12:54",
+      "name": "水野裕一",
+      "category": "学会発表",
+      "activityType": "学会発表",
+      "title": "知識の保持から情報の最適化へ：LLMと視覚化ツールを用いた医学物理教育の再設計",
+      "eventName": "132th JSMP学術大会",
+      "date": "2026/08/29",
+      "dateIso": "2026-08-29",
+      "location": "新潟",
+      "notes": "医学物理士の新たな役割としての生成AI活用",
+      "genres": [
+        "treatment-planning",
+        "ai-digital",
         "research-education"
       ]
     },
