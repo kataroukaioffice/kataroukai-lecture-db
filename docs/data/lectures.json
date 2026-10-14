@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-13T02:18:59.697Z",
+  "updatedAt": "2026-10-14T00:01:43.113Z",
   "source": {
     "spreadsheetId": "1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI",
     "gid": "622302178",
     "url": "https://docs.google.com/spreadsheets/d/1O121_9rzHGKGg9a_zuvp4Vuv6IcilQlk6yyx3_UP_VI/edit?gid=622302178"
   },
-  "totalInSheet": 418,
-  "publishedCount": 155,
+  "totalInSheet": 421,
+  "publishedCount": 158,
   "speakerCount": 19,
   "nameMergeGroups": 14,
   "genres": [
@@ -54,13 +54,13 @@
   "genreCounts": {
     "medical-safety": 15,
     "qa-qc": 21,
-    "treatment-planning": 43,
-    "equipment-physics": 30,
+    "treatment-planning": 44,
+    "equipment-physics": 31,
     "igrt": 21,
     "workflow": 26,
-    "ai-digital": 18,
-    "disaster-bcp": 7,
-    "research-education": 53,
+    "ai-digital": 19,
+    "disaster-bcp": 9,
+    "research-education": 54,
     "patient-care": 7
   },
   "activityTypes": [
@@ -226,6 +226,22 @@
       ]
     },
     {
+      "id": "344e709562b7",
+      "timestamp": "2026/10/13 17:03:12",
+      "name": "上田悦弘",
+      "category": "かたろう会関連事業",
+      "activityType": "かたろう会関連事業",
+      "title": "この故障、前もなかったっけ？ ―故障データベースの開発と活用―",
+      "eventName": "167回放射線治療かたろう会",
+      "date": "2026/10/03",
+      "dateIso": "2026-10-03",
+      "location": "コンファレンスプラザ御堂筋",
+      "notes": "",
+      "genres": [
+        "disaster-bcp"
+      ]
+    },
+    {
       "id": "abb65c7104cc",
       "timestamp": "2026/08/10 12:02:58",
       "name": "水野裕一",
@@ -309,6 +325,24 @@
       ]
     },
     {
+      "id": "f898f3d38bbf",
+      "timestamp": "2026/10/13 16:59:34",
+      "name": "上田悦弘",
+      "category": "講演",
+      "activityType": "講演",
+      "title": "高精度放射線治療の臨床応用に関する研究―固定・画像誘導・線量評価およびAI治療計画技術の総合的検討―",
+      "eventName": "一般社団法人大阪ニュークリアサイエンス協会",
+      "date": "2026/08/19",
+      "dateIso": "2026-08-19",
+      "location": "Web",
+      "notes": "",
+      "genres": [
+        "treatment-planning",
+        "ai-digital",
+        "research-education"
+      ]
+    },
+    {
       "id": "20fc74295cf2",
       "timestamp": "2026/08/10 14:41:16",
       "name": "松本賢治",
@@ -321,6 +355,23 @@
       "location": "大阪",
       "notes": "",
       "genres": []
+    },
+    {
+      "id": "4360e51b30d4",
+      "timestamp": "2026/10/13 17:02:00",
+      "name": "上田悦弘",
+      "category": "講演",
+      "activityType": "講演",
+      "title": "リニアックを系統で捉える\t\n \t  ― 構造と故障をつなぐ視点 ―",
+      "eventName": "放射線治療かたろう会1Day Workshop-聞くだけで終わらない、かたりあう実践講座-",
+      "date": "2026/08/01",
+      "dateIso": "2026-08-01",
+      "location": "コンファレンスプラザ御堂筋",
+      "notes": "",
+      "genres": [
+        "equipment-physics",
+        "disaster-bcp"
+      ]
     },
     {
       "id": "9f00c71f2504",
